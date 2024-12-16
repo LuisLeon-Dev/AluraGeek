@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "Camiseta Geek",
+    "price": 20.99,
+    "image": "img/camiseta-geek.jpg",
+    "category": "Ropa"
+  },
+  {
+    "id": 2,
+    "name": "Figura de acción",
+    "price": 35.50,
+    "image": "img/figura-accion.jpg",
+    "category": "Coleccionables"
+  },
+  {
+    "id": 3,
+    "name": "Taza Star Wars",
+    "price": 15.00,
+    "image": "img/taza-star-wars.jpg",
+    "category": "Accesorios"
+  }
+]
+
